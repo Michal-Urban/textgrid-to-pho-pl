@@ -1,8 +1,8 @@
 #       IPA to Polish SAMPA dictionary
 #       Michał Urban, 2022
 
-IPA_to_PL_SAMPA = {     #   This dictionary should be, but probably is not complete
-    "ɨ\t" : "I\t",      #   If problems occur, check:
+IPA_to_PL_SAMPA = {
+    "ɨ\t" : "I\t",
     "ɪ\t" : "I\t",      #   phon.ucl.ac.uk/home/sampa/pol-uni.htm
     "ɛ̃w̃" : "e~\t",      #   www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__consonants.html
     "ɛj̃" : "e~\t",      #   baltoslav.eu/ipa/

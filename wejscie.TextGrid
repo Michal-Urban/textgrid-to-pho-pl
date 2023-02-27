@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.070875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "speaker_1" 
+        xmin = 0 
+        xmax = 2.070875 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.02358009668420856 
+            text = "_" 
+        intervals [2]:
+            xmin = 0.02358009668420856 
+            xmax = 0.14812546131275278 
+            text = "ʋ" 
+        intervals [3]:
+            xmin = 0.14812546131275278 
+            xmax = 0.20482510201913284 
+            text = "ɛ" 
+        intervals [4]:
+            xmin = 0.20482510201913284 
+            xmax = 0.23390184084291749 
+            text = "j" 
+        intervals [5]:
+            xmin = 0.23390184084291749 
+            xmax = 0.3298550789614068 
+            text = "ɕ" 
+        intervals [6]:
+            xmin = 0.3298550789614068 
+            xmax = 0.39527774131492227 
+            text = "tɕ" 
+        intervals [7]:
+            xmin = 0.39527774131492227 
+            xmax = 0.4874186372495123 
+            text = "ɛ" 
+        intervals [8]:
+            xmin = 0.4874186372495123 
+            xmax = 0.5340033741855502 
+            text = "d" 
+        intervals [9]:
+            xmin = 0.5340033741855502 
+            xmax = 0.5532003681710685 
+            text = "ɔ" 
+        intervals [10]:
+            xmin = 0.5532003681710685 
+            xmax = 0.6312229506815573 
+            text = "b" 
+        intervals [11]:
+            xmin = 0.6312229506815573 
+            xmax = 0.6934698517813285 
+            text = "u" 
+        intervals [12]:
+            xmin = 0.6934698517813285 
+            xmax = 0.7535617786838168 
+            text = "d" 
+        intervals [13]:
+            xmin = 0.7535617786838168 
+            xmax = 0.8163016583699992 
+            text = "ɨ" 
+        intervals [14]:
+            xmin = 0.8163016583699992 
+            xmax = 0.883258813860102 
+            text = "n" 
+        intervals [15]:
+            xmin = 0.883258813860102 
+            xmax = 0.9647457991157912 
+            text = "k" 
+        intervals [16]:
+            xmin = 0.9647457991157912 
+            xmax = 0.9871274989597342 
+            text = "u" 
+        intervals [17]:
+            xmin = 0.9871274989597342 
+            xmax = 1.0803760198850512 
+            text = "j" 
+        intervals [18]:
+            xmin = 1.0803760198850512 
+            xmax = 1.1465244585323284 
+            text = "ɛ" 
+        intervals [19]:
+            xmin = 1.1465244585323284 
+            xmax = 1.2217432141529647 
+            text = "z" 
+        intervals [20]:
+            xmin = 1.2217432141529647 
+            xmax = 1.2714859284206927 
+            text = "d" 
+        intervals [21]:
+            xmin = 1.2714859284206927 
+            xmax = 1.2987715432680067 
+            text = "ʋ" 
+        intervals [22]:
+            xmin = 1.2987715432680067 
+            xmax = 1.3491712238959004 
+            text = "z" 
+        intervals [23]:
+            xmin = 1.3491712238959004 
+            xmax = 1.4251875138148067 
+            text = "b" 
+        intervals [24]:
+            xmin = 1.4251875138148067 
+            xmax = 1.4811602360505924 
+            text = "r" 
+        intervals [25]:
+            xmin = 1.4811602360505924 
+            xmax = 1.547382975409262 
+            text = "ɔ" 
+        intervals [26]:
+            xmin = 1.547382975409262 
+            xmax = 1.6447932126902727 
+            text = "ɲ" 
+        intervals [27]:
+            xmin = 1.6447932126902727 
+            xmax = 1.7772365373956103 
+            text = "ɔ" 
+        intervals [28]:
+            xmin = 1.7772365373956103 
+            xmax = 1.8675909526917063 
+            text = "n" 
+        intervals [29]:
+            xmin = 1.8675909526917063 
+            xmax = 2.026441871569721 
+            text = "ɜ" 
+        intervals [30]:
+            xmin = 2.026441871569721 
+            xmax = 2.070875 
+            text = "_" 
